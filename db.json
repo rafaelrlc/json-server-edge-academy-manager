@@ -222,8 +222,8 @@
  "username": "Rafael Ribeiro Lima Carleial",
  "bio": "I own a computer.",
  "urls": [
-   { "value": "https://shadcn.com" },
-   { "value": "http://twitter.com/shadcn" }
+   { "value": "http://twitter.com/shadcn" },
+   { "value": "https://student-manager-ui.vercel.app/" }
  ]
 },
 "notifications" : {
@@ -232,10 +232,9 @@
 },
 "account" : {
  "name": "Rafael Ribeiro",
- "dob": "2023-01-23"
+ "dob": "2023-02-02T00:00:00.000Z"
 },
 "appearance" : {
  "theme": "dark"
-}
- 
+} 
 }
